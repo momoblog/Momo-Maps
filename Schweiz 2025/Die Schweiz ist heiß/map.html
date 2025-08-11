@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Meine Route</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+<style>
+  body { margin: 0; padding: 0; }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibW9tb3BybyIsImEiOiJjbWR4NHF2Z2swYmVhMm5zZGVqNzR2MHo4In0.N1wxp-SCJ0V7KMKqF7gAaA';
+
+fetch('route.geojson')
+  .then(res => res.json())
+  .then(geojsonData => {
+    const map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/mapbox/streets-v11',
+      center: [0, 0],
+      zoom: 2
+    });
+
+    map.on('load', () => {
+        // Labels auf Deutsch umstellen
+const layers = map.getStyle().layers;
+for (const layer of layers) {
+  if (layer.layout && layer.layout['text-field']) {
+    map.setLayoutProperty(layer.id, 'text-field', [
+      'coalesce',
+      ['get', 'name_de'],
+      ['get', 'name']
+    ]);
+  }
+}
+
+      map.addSource('route', { type: 'geojson', data: geojsonData });
+
+      map.addLayer({
+        id: 'route-layer',
+        type: 'line',
+        source: 'route',
+        layout: { 'line-join': 'round', 'line-cap': 'round' },
+        paint: { 'line-color': '#a80f0f', 'line-width': 4 }
+      });
+
+      // --- NEU: Funktion um alle Koordinaten zu finden ---
+      const bounds = new mapboxgl.LngLatBounds();
+
+      function addCoords(coords) {
+        if (typeof coords[0] === 'number' && typeof coords[1] === 'number') {
+          bounds.extend(coords);
+        } else {
+          coords.forEach(c => addCoords(c));
+        }
+      }
+
+      if (geojsonData.type === 'FeatureCollection') {
+        geojsonData.features.forEach(f => addCoords(f.geometry.coordinates));
+      } else if (geojsonData.type === 'Feature') {
+        addCoords(geojsonData.geometry.coordinates);
+      } else {
+        addCoords(geojsonData.coordinates);
+      }
+
+      // Karte auf die berechneten Bounds setzen
+      if (!bounds.isEmpty()) {
+        map.fitBounds(bounds, { padding: 50 });
+      }
+    });
+  })
+  .catch(err => console.error('Fehler beim Laden der GeoJSON:', err));
+</script>
+
+</body>
+</html>
