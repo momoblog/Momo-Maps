@@ -1,0 +1,242 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "geometry" : {
+        "coordinates" : [
+          -7.7016388006660454,
+          55.2476498766286
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "rating" : 0,
+        "weather" : "Bedeckter Himmel (10,3 °C)",
+        "duration" : 50061.351846218109,
+        "address" : "Ballyhoorisky Point To Fanad Head SAC, County Donegal, Irland",
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-04-27T20:43:37Z",
+        "departure" : "2026-04-28T10:37:58Z",
+        "arrival" : "2026-04-27T20:43:37Z"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.6942114143749123,
+          55.252573802655121
+        ]
+      },
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 2254.5825145244598,
+        "weather" : "Überwiegend bewölkt (12,5 °C)",
+        "type" : "visit",
+        "address" : "Ballyhoorisky Point To Fanad Head SAC, Irland",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-04-28T11:23:22Z",
+        "timestamp" : "2026-04-28T10:45:48Z",
+        "arrival" : "2026-04-28T10:45:48Z",
+        "rating" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.6917972052365444,
+          55.255280040472329
+        ]
+      },
+      "properties" : {
+        "duration" : 2068.2066161632538,
+        "weather" : "Überwiegend bewölkt (12,7 °C)",
+        "address" : "Rinmore, County Donegal, Irland",
+        "departure" : "2026-04-28T11:57:58Z",
+        "rating" : 0,
+        "type" : "visit",
+        "source" : "Geory 5.3.2",
+        "arrival" : "2026-04-28T11:23:29Z",
+        "timestamp" : "2026-04-28T11:23:29Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.7013065255478024,
+          55.247914039514846
+        ]
+      },
+      "properties" : {
+        "type" : "visit",
+        "timestamp" : "2026-04-28T12:21:34Z",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-04-28T19:13:20Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Bedeckter Himmel (13,1 °C)",
+        "address" : "Ballyhoorisky Point To Fanad Head SAC, County Donegal, Irland",
+        "rating" : 0,
+        "duration" : 24705.99945807457,
+        "arrival" : "2026-04-28T12:21:34Z"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.6974124051650312,
+          55.250022528277974
+        ]
+      },
+      "properties" : {
+        "departure" : "2026-04-28T19:29:35Z",
+        "source" : "Geory 5.3.2",
+        "address" : "Ballyhoorisky Point To Fanad Head SAC, Irland",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-04-28T19:13:21Z",
+        "type" : "visit",
+        "duration" : 973.94887447357178,
+        "timestamp" : "2026-04-28T19:13:21Z",
+        "weather" : "Aufgelockert bewölkt (12,2 °C)"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.6938234366417779,
+          55.252734783622245
+        ]
+      },
+      "type" : "Feature",
+      "properties" : {
+        "source" : "Geory 5.3.2",
+        "arrival" : "2026-04-28T19:39:53Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-04-28T20:44:14Z",
+        "weather" : "Aufgelockert bewölkt (11,4 °C)",
+        "timestamp" : "2026-04-28T19:39:53Z",
+        "rating" : 0,
+        "duration" : 3861.1474413871765,
+        "address" : "Ballyhoorisky Point To Fanad Head SAC, Irland",
+        "type" : "visit"
+      }
+    },
+    {
+      "properties" : {
+        "timestamp" : "2026-04-28T20:54:37Z",
+        "departure" : "2026-04-29T11:04:26Z",
+        "duration" : 50988.443881750107,
+        "type" : "visit",
+        "arrival" : "2026-04-28T20:54:37Z",
+        "weather" : "Aufgelockert bewölkt (10,5 °C)",
+        "rating" : 0,
+        "address" : "Ballyhoorisky Point To Fanad Head SAC, County Donegal, Irland",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -7.7016121293864588,
+          55.247650893603698
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            -7.7016121293864588,
+            55.247650893603698
+          ],
+          [
+            -7.6996419920922392,
+            55.249364584048038
+          ],
+          [
+            -7.6981240843480707,
+            55.250006614515975
+          ],
+          [
+            -7.695912527394273,
+            55.25101441195249
+          ],
+          [
+            -7.6938234366417779,
+            55.252734783622245
+          ],
+          [
+            -7.6974124051650312,
+            55.250022528277974
+          ],
+          [
+            -7.7013065255478024,
+            55.247914039514846
+          ],
+          [
+            -7.6973822094665199,
+            55.250193698012616
+          ],
+          [
+            -7.6961065558629622,
+            55.250720843431843
+          ],
+          [
+            -7.6947910979430523,
+            55.251226033726134
+          ],
+          [
+            -7.6937355835913781,
+            55.2519048400491
+          ],
+          [
+            -7.6917972052365444,
+            55.255280040472329
+          ],
+          [
+            -7.6942114143749123,
+            55.252573802655121
+          ],
+          [
+            -7.6968652165600933,
+            55.251195531076803
+          ],
+          [
+            -7.6980350159845745,
+            55.250752964888129
+          ],
+          [
+            -7.7002299572739235,
+            55.249502953948017
+          ],
+          [
+            -7.7016388006660454,
+            55.2476498766286
+          ]
+        ]
+      },
+      "type" : "Feature",
+      "properties" : {
+        "end" : "2026-04-28T21:59:59Z",
+        "type" : "route",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "start" : "2026-04-27T22:00:00Z"
+      }
+    }
+  ]
+}
