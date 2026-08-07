@@ -1,0 +1,352 @@
+{
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.245674482297197,
+          56.289883651962775
+        ]
+      },
+      "properties" : {
+        "departure" : "2026-05-20T10:18:26Z",
+        "type" : "visit",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-05-19T18:52:59Z",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-05-19T18:52:59Z",
+        "weather" : "Bedeckter Himmel (12,5 °C)",
+        "duration" : 55526.000495672226,
+        "rating" : 0
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.2482447782081083,
+          56.28759968566191
+        ]
+      },
+      "properties" : {
+        "timestamp" : "2026-05-20T10:18:27Z",
+        "type" : "visit",
+        "departure" : "2026-05-20T10:42:24Z",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Bedeckter Himmel (12,2 °C)",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "duration" : 1437.9989628791809,
+        "arrival" : "2026-05-20T10:18:27Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -6.234671703464393,
+          56.287059271930708
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "rating" : 0,
+        "type" : "visit",
+        "source" : "Geory 5.3.2",
+        "weather" : "Überwiegend bewölkt (12,7 °C)",
+        "timestamp" : "2026-05-20T11:01:19Z",
+        "arrival" : "2026-05-20T11:01:19Z",
+        "duration" : 1002.0002229213715,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-05-20T11:18:01Z",
+        "address" : "Isle of Mull, Argyll and Bute, Schottland"
+      }
+    },
+    {
+      "properties" : {
+        "timestamp" : "2026-05-20T11:27:05Z",
+        "arrival" : "2026-05-20T11:27:05Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-05-20T12:44:44Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Überwiegend bewölkt (12,7 °C)",
+        "type" : "visit",
+        "duration" : 4658.0004193782806,
+        "address" : "Isle Of Mull, PA67, Schottland"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.2456351468023499,
+          56.289843519474545
+        ]
+      }
+    },
+    {
+      "properties" : {
+        "type" : "visit",
+        "timestamp" : "2026-05-20T12:44:45Z",
+        "weather" : "Klarer Himmel (13,0 °C)",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "arrival" : "2026-05-20T12:44:45Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-05-20T13:26:49Z",
+        "duration" : 2524.0005781650543,
+        "rating" : 0
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.2487896679249841,
+          56.292541796623539
+        ]
+      }
+    },
+    {
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "departure" : "2026-05-20T16:55:08Z",
+        "weather" : "Klarer Himmel (12,9 °C)",
+        "source" : "Geory 5.3.2",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "duration" : 12497.99925327301,
+        "timestamp" : "2026-05-20T13:26:50Z",
+        "arrival" : "2026-05-20T13:26:50Z",
+        "rating" : 0
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -6.2457676016589003,
+          56.28981940121605
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -6.2421308329408491,
+          56.288247969875044
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "timestamp" : "2026-05-20T16:55:09Z",
+        "departure" : "2026-05-20T17:23:21Z",
+        "duration" : 1692.3065166473389,
+        "address" : "Isle of Mull, Argyll and Bute, Schottland",
+        "type" : "visit",
+        "arrival" : "2026-05-20T16:55:09Z",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "weather" : "Klarer Himmel (14,2 °C)"
+      },
+      "type" : "Feature"
+    },
+    {
+      "properties" : {
+        "weather" : "Klarer Himmel (13,6 °C)",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-05-20T19:50:20Z",
+        "timestamp" : "2026-05-20T17:26:40Z",
+        "source" : "Geory 5.3.2",
+        "duration" : 8620.000839471817,
+        "arrival" : "2026-05-20T17:26:40Z",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "rating" : 0,
+        "type" : "visit"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -6.2457781459709381,
+          56.289706153145204
+        ]
+      }
+    },
+    {
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "timestamp" : "2026-05-20T19:58:32Z",
+        "duration" : 1825.0002994537354,
+        "type" : "visit",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "weather" : "Klarer Himmel (11,8 °C)",
+        "arrival" : "2026-05-20T19:58:32Z",
+        "departure" : "2026-05-20T20:28:57Z"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -6.2555314176659635,
+          56.291242357236669
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "weather" : "Klarer Himmel (11,0 °C)",
+        "timestamp" : "2026-05-20T20:39:34Z",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "type" : "visit",
+        "duration" : 49917.296480178833,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "address" : "Isle Of Mull, PA67, Schottland",
+        "arrival" : "2026-05-20T20:39:34Z",
+        "departure" : "2026-05-21T10:31:31Z"
+      },
+      "geometry" : {
+        "coordinates" : [
+          -6.245674520034,
+          56.289878201449639
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          [
+            -6.245674520034,
+            56.289878201449639
+          ],
+          [
+            -6.2477981650224583,
+            56.291386053799911
+          ],
+          [
+            -6.2487595311335191,
+            56.292111079590029
+          ],
+          [
+            -6.2503840919221165,
+            56.292114275243932
+          ],
+          [
+            -6.25129471669735,
+            56.291364515622199
+          ],
+          [
+            -6.2555314176659635,
+            56.291242357236669
+          ],
+          [
+            -6.2513063322952362,
+            56.291411815957609
+          ],
+          [
+            -6.2503712323036051,
+            56.292150758106523
+          ],
+          [
+            -6.2487356830334839,
+            56.292118555699695
+          ],
+          [
+            -6.2477906647525003,
+            56.291378410647681
+          ],
+          [
+            -6.2457781459709381,
+            56.289706153145204
+          ],
+          [
+            -6.2421308329408491,
+            56.288247969875044
+          ],
+          [
+            -6.2457676016589003,
+            56.28981940121605
+          ],
+          [
+            -6.2487896679249841,
+            56.292541796623539
+          ],
+          [
+            -6.2456351468023499,
+            56.289843519474545
+          ],
+          [
+            -6.2418714148335539,
+            56.288524887356175
+          ],
+          [
+            -6.2402929642549481,
+            56.288289894118954
+          ],
+          [
+            -6.2387354225128693,
+            56.288041987825146
+          ],
+          [
+            -6.234671703464393,
+            56.287059271930708
+          ],
+          [
+            -6.2362101748188836,
+            56.287624135393862
+          ],
+          [
+            -6.2377653558565713,
+            56.288018236244227
+          ],
+          [
+            -6.2390790415140946,
+            56.288264495256833
+          ],
+          [
+            -6.2396227563908164,
+            56.288667257523656
+          ],
+          [
+            -6.2412499763446698,
+            56.288594301452811
+          ],
+          [
+            -6.2428554344352518,
+            56.288452703412929
+          ],
+          [
+            -6.244189054435239,
+            56.288355882223051
+          ],
+          [
+            -6.2482447782081083,
+            56.28759968566191
+          ],
+          [
+            -6.245674482297197,
+            56.289883651962775
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "start" : "2026-05-19T22:00:00Z",
+        "end" : "2026-05-20T21:59:59Z",
+        "type" : "route",
+        "source" : "Geory 5.3.2"
+      },
+      "type" : "Feature"
+    }
+  ],
+  "type" : "FeatureCollection"
+}
