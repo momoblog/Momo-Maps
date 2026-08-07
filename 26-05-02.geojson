@@ -1,0 +1,222 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "properties" : {
+        "type" : "visit",
+        "arrival" : "2026-05-01T19:38:30Z",
+        "weather" : "Bedeckter Himmel (10,6 °C)",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 49641.583130121231,
+        "departure" : "2026-05-02T09:25:52Z",
+        "address" : "Kill, County Donegal, Irland",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-05-01T19:38:30Z"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -7.9563281602916955,
+          55.18623579046988
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -7.9555417088164315,
+          55.18672946346323
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "type" : "visit",
+        "timestamp" : "2026-05-02T09:44:56Z",
+        "weather" : "Bedeckter Himmel (12,0 °C)",
+        "address" : "Kill, County Donegal, Irland",
+        "arrival" : "2026-05-02T09:44:56Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "duration" : 4637.7187883853912,
+        "departure" : "2026-05-02T11:02:14Z",
+        "rating" : 0
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.9563141894941607,
+          55.186236011069361
+        ]
+      },
+      "properties" : {
+        "type" : "visit",
+        "duration" : 22313.93630695343,
+        "address" : "Kill, County Donegal, Irland",
+        "arrival" : "2026-05-02T11:12:11Z",
+        "timestamp" : "2026-05-02T11:12:11Z",
+        "departure" : "2026-05-02T17:24:05Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "weather" : "Bedeckter Himmel (10,8 °C)",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -7.9721231743496812,
+          55.18325501423454
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "type" : "visit",
+        "duration" : 4209.7691655158997,
+        "weather" : "Bedeckter Himmel (10,9 °C)",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-05-02T17:42:23Z",
+        "arrival" : "2026-05-02T17:42:23Z",
+        "address" : "Main Street, Dunfanaghy, County Donegal, F92 F4EN, Irland",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-05-02T18:52:33Z"
+      }
+    },
+    {
+      "properties" : {
+        "arrival" : "2026-05-02T19:02:07Z",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-05-03T08:41:16Z",
+        "address" : "Kill, County Donegal, Irland",
+        "rating" : 0,
+        "duration" : 49148.475476980209,
+        "weather" : "Bedeckter Himmel (11,0 °C)",
+        "timestamp" : "2026-05-02T19:02:07Z",
+        "type" : "visit"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.956365436812816,
+          55.186243337080342
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            -7.956365436812816,
+            55.186243337080342
+          ],
+          [
+            -7.963245765565814,
+            55.185112305711861
+          ],
+          [
+            -7.9646072179554155,
+            55.184533511025265
+          ],
+          [
+            -7.9654503357367412,
+            55.183931575813773
+          ],
+          [
+            -7.9721231743496812,
+            55.18325501423454
+          ],
+          [
+            -7.96814202631061,
+            55.183722791191201
+          ],
+          [
+            -7.9654974023923124,
+            55.183863207809736
+          ],
+          [
+            -7.9646957144518042,
+            55.184715499133802
+          ],
+          [
+            -7.9646957144518042,
+            55.184715499133802
+          ],
+          [
+            -7.963316827431913,
+            55.18515098697916
+          ],
+          [
+            -7.963082772669126,
+            55.185702388607957
+          ],
+          [
+            -7.9618251261007309,
+            55.186260058746861
+          ],
+          [
+            -7.9603613196870775,
+            55.186839676333477
+          ],
+          [
+            -7.9590534967846747,
+            55.18747305094567
+          ],
+          [
+            -7.9578627623349112,
+            55.187900117368677
+          ],
+          [
+            -7.9563141894941607,
+            55.186236011069361
+          ],
+          [
+            -7.9555417088164315,
+            55.18672946346323
+          ],
+          [
+            -7.9564167813691249,
+            55.190710341409414
+          ],
+          [
+            -7.9562786471811258,
+            55.191213932737789
+          ],
+          [
+            -7.9565333101731213,
+            55.19059482371226
+          ],
+          [
+            -7.9568182911110652,
+            55.188209955455903
+          ],
+          [
+            -7.9568185151571091,
+            55.188210624470457
+          ],
+          [
+            -7.9563281602916955,
+            55.18623579046988
+          ]
+        ]
+      },
+      "properties" : {
+        "type" : "route",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "end" : "2026-05-02T21:59:59Z",
+        "start" : "2026-05-01T22:00:00Z"
+      }
+    }
+  ]
+}

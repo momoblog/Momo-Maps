@@ -1,0 +1,536 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "properties" : {
+        "timestamp" : "2026-05-05T18:12:25Z",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "duration" : 17101.962844848633,
+        "arrival" : "2026-05-05T18:12:25Z",
+        "departure" : "2026-05-05T22:57:27Z",
+        "weather" : "Überwiegend bewölkt (7,9 °C)",
+        "address" : "North Inishowen Coast SAC, County Donegal, Irland",
+        "rating" : 0
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.4507786105173732,
+          55.289542034568619
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.4571756984154671,
+          55.289229397920046
+        ]
+      },
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 7628.0653538703918,
+        "weather" : "Überwiegend bewölkt (5,6 °C)",
+        "type" : "visit",
+        "arrival" : "2026-05-05T23:07:03Z",
+        "address" : "Tullagh, Clonmany, County Donegal, F93 DX02, Irland",
+        "departure" : "2026-05-06T01:14:11Z",
+        "timestamp" : "2026-05-05T23:07:03Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2"
+      }
+    },
+    {
+      "properties" : {
+        "type" : "visit",
+        "duration" : 1218.2418870925903,
+        "arrival" : "2026-05-06T01:45:21Z",
+        "timestamp" : "2026-05-06T01:45:21Z",
+        "weather" : "Bedeckter Himmel (5,9 °C)",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "address" : "North Inishowen Coast SAC, County Donegal, Irland",
+        "departure" : "2026-05-06T02:05:39Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.4507731337847254,
+          55.289603122069877
+        ]
+      },
+      "type" : "Feature"
+    },
+    {
+      "properties" : {
+        "type" : "visit",
+        "address" : "Tullagh, Clonmany, County Donegal, F93 DX02, Irland",
+        "duration" : 1914.6616969108582,
+        "weather" : "Bedeckter Himmel (6,0 °C)",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-05-06T02:21:38Z",
+        "arrival" : "2026-05-06T02:21:38Z",
+        "departure" : "2026-05-06T02:53:33Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "geometry" : {
+        "coordinates" : [
+          -7.4572299328080707,
+          55.289226696671371
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -7.4508470414917536,
+          55.289558585557423
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 3874.1744773387909,
+        "address" : "North Inishowen Coast SAC, County Donegal, Irland",
+        "weather" : "Bedeckter Himmel (6,0 °C)",
+        "timestamp" : "2026-05-06T02:55:08Z",
+        "arrival" : "2026-05-06T02:55:08Z",
+        "source" : "Geory 5.3.2",
+        "type" : "visit",
+        "departure" : "2026-05-06T03:59:42Z",
+        "rating" : 0
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -7.4572329499999963,
+          55.289226530000015
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "departure" : "2026-05-06T04:32:09Z",
+        "timestamp" : "2026-05-06T03:59:57Z",
+        "address" : "Tullagh, Clonmany, County Donegal, F93 DX02, Irland",
+        "arrival" : "2026-05-06T03:59:57Z",
+        "weather" : "Bedeckter Himmel (6,2 °C)",
+        "rating" : 0,
+        "duration" : 1931.6781949996948,
+        "source" : "Geory 5.3.2"
+      },
+      "type" : "Feature"
+    },
+    {
+      "properties" : {
+        "address" : "Tullagh, Clonmany, County Donegal, F93 DX02, Irland",
+        "weather" : "Bedeckter Himmel (6,1 °C)",
+        "rating" : 0,
+        "timestamp" : "2026-05-06T04:46:39Z",
+        "duration" : 4909.3915610313416,
+        "arrival" : "2026-05-06T04:46:39Z",
+        "departure" : "2026-05-06T06:08:29Z",
+        "source" : "Geory 5.3.2",
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -7.4571661625506485,
+          55.289228586314898
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.4507993071867098,
+          55.289507362508857
+        ]
+      },
+      "properties" : {
+        "arrival" : "2026-05-06T06:13:26Z",
+        "duration" : 23281.544807910919,
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Bedeckter Himmel (6,4 °C)",
+        "timestamp" : "2026-05-06T06:13:26Z",
+        "departure" : "2026-05-06T12:41:28Z",
+        "source" : "Geory 5.3.2",
+        "address" : "North Inishowen Coast SAC, County Donegal, Irland",
+        "rating" : 0
+      },
+      "type" : "Feature"
+    },
+    {
+      "properties" : {
+        "address" : "North Inishowen Coast SAC, Irland",
+        "departure" : "2026-05-06T13:40:34Z",
+        "type" : "visit",
+        "timestamp" : "2026-05-06T12:58:41Z",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Bedeckter Himmel (11,3 °C)",
+        "duration" : 2512.5643653869629,
+        "rating" : 0,
+        "arrival" : "2026-05-06T12:58:41Z"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.4339212130818897,
+          55.282708406952629
+        ]
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -7.4508013365589996,
+          55.289538100529072
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "arrival" : "2026-05-06T14:06:23Z",
+        "address" : "North Inishowen Coast SAC, County Donegal, Irland",
+        "type" : "visit",
+        "rating" : 0,
+        "departure" : "2026-05-06T19:45:53Z",
+        "source" : "Geory 5.3.2",
+        "duration" : 20369.794454336166,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Überwiegend bewölkt (10,0 °C)",
+        "timestamp" : "2026-05-06T14:06:23Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.4656834576945688,
+          55.291327860140406
+        ]
+      },
+      "properties" : {
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "timestamp" : "2026-05-06T20:00:19Z",
+        "duration" : 2219.3237457275391,
+        "departure" : "2026-05-06T20:37:18Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "address" : "Tullagh, Clonmany, County Donegal, F93 F5P9, Irland",
+        "arrival" : "2026-05-06T20:00:19Z",
+        "weather" : "Bedeckter Himmel (6,8 °C)"
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -7.4509513652566621,
+          55.289532332026724
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "type" : "visit",
+        "address" : "North Inishowen Coast SAC, County Donegal, Irland",
+        "departure" : "2026-05-06T22:50:57Z",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "timestamp" : "2026-05-06T20:43:36Z",
+        "duration" : 7640.2142338752747,
+        "weather" : "Bedeckter Himmel (6,0 °C)",
+        "arrival" : "2026-05-06T20:43:36Z",
+        "rating" : 0
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            -7.4509513652566621,
+            55.289532332026724
+          ],
+          [
+            -7.4544248210496509,
+            55.289114772265819
+          ],
+          [
+            -7.4572291224991165,
+            55.289616735024545
+          ],
+          [
+            -7.4581696238249409,
+            55.29036265199165
+          ],
+          [
+            -7.4607826525095318,
+            55.289794168330509
+          ],
+          [
+            -7.4656834576945688,
+            55.291327860140406
+          ],
+          [
+            -7.465529362744129,
+            55.291236528044692
+          ],
+          [
+            -7.4638342583065365,
+            55.290958517342965
+          ],
+          [
+            -7.4619280131042078,
+            55.290471738489245
+          ],
+          [
+            -7.4592799080719541,
+            55.28983568908518
+          ],
+          [
+            -7.4581687000948831,
+            55.289528974661167
+          ],
+          [
+            -7.4568272788196763,
+            55.289101211348374
+          ],
+          [
+            -7.4568272788196763,
+            55.289101211348374
+          ],
+          [
+            -7.4508013365589996,
+            55.289538100529072
+          ],
+          [
+            -7.45136158951067,
+            55.287001512732971
+          ],
+          [
+            -7.4513883788508748,
+            55.28595839752473
+          ],
+          [
+            -7.4507574155416059,
+            55.285186959187484
+          ],
+          [
+            -7.4507574155416059,
+            55.285186959187484
+          ],
+          [
+            -7.4500914288722937,
+            55.284103949177187
+          ],
+          [
+            -7.4487435319089634,
+            55.283002966934781
+          ],
+          [
+            -7.4477016077396971,
+            55.281885847813953
+          ],
+          [
+            -7.4467477484142766,
+            55.282199115765422
+          ],
+          [
+            -7.4453206235732541,
+            55.281817729630987
+          ],
+          [
+            -7.443789692101328,
+            55.281560040617528
+          ],
+          [
+            -7.4422352962639424,
+            55.281415452245113
+          ],
+          [
+            -7.4402164290788395,
+            55.281475007080253
+          ],
+          [
+            -7.4384201495664897,
+            55.28141897597223
+          ],
+          [
+            -7.4339212130818897,
+            55.282708406952629
+          ],
+          [
+            -7.4428338152927331,
+            55.281410657287118
+          ],
+          [
+            -7.445103539425836,
+            55.281694535585892
+          ],
+          [
+            -7.4468491580282272,
+            55.282188370850506
+          ],
+          [
+            -7.4477224541597717,
+            55.282568455781536
+          ],
+          [
+            -7.4488632335797904,
+            55.283188273617952
+          ],
+          [
+            -7.4499182732495006,
+            55.28385767472669
+          ],
+          [
+            -7.4507748939080516,
+            55.28461608028028
+          ],
+          [
+            -7.4515552924375221,
+            55.285404057217718
+          ],
+          [
+            -7.4515552924375221,
+            55.285404057217718
+          ],
+          [
+            -7.4507993071867098,
+            55.289507362508857
+          ],
+          [
+            -7.4571661625506485,
+            55.289228586314898
+          ],
+          [
+            -7.4572329499999999,
+            55.289226530000001
+          ],
+          [
+            -7.450777913827352,
+            55.289588212728347
+          ],
+          [
+            -7.4508202872469207,
+            55.289567692545575
+          ],
+          [
+            -7.4572329499999963,
+            55.289226530000015
+          ],
+          [
+            -7.4508470414917536,
+            55.289558585557423
+          ],
+          [
+            -7.4572299328080707,
+            55.289226696671371
+          ],
+          [
+            -7.450833211371183,
+            55.28956376308966
+          ],
+          [
+            -7.4572329500000016,
+            55.289226530000043
+          ],
+          [
+            -7.4508930787766321,
+            55.2895943111101
+          ],
+          [
+            -7.4507731337847254,
+            55.289603122069877
+          ],
+          [
+            -7.4572329500000016,
+            55.289226530000001
+          ],
+          [
+            -7.4508148723105778,
+            55.289557652331169
+          ],
+          [
+            -7.4572329499999999,
+            55.289226529999993
+          ],
+          [
+            -7.4507408923792102,
+            55.289616341041942
+          ],
+          [
+            -7.4572329499999999,
+            55.289226530000029
+          ],
+          [
+            -7.4508664249578835,
+            55.289523341813307
+          ],
+          [
+            -7.4508569292461528,
+            55.289553565402912
+          ],
+          [
+            -7.4571756984154671,
+            55.289229397920046
+          ],
+          [
+            -7.4508146730351115,
+            55.28949508553962
+          ],
+          [
+            -7.4572329500000016,
+            55.289226530000001
+          ],
+          [
+            -7.4507402572716019,
+            55.289545081038987
+          ],
+          [
+            -7.457232949999999,
+            55.289226529999993
+          ],
+          [
+            -7.4508039111924766,
+            55.28954553463609
+          ],
+          [
+            -7.4507786105173732,
+            55.289542034568619
+          ]
+        ]
+      },
+      "properties" : {
+        "type" : "route",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "start" : "2026-05-05T22:00:00Z",
+        "source" : "Geory 5.3.2",
+        "end" : "2026-05-06T21:59:59Z"
+      },
+      "type" : "Feature"
+    }
+  ]
+}
