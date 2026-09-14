@@ -1,0 +1,335 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "properties" : {
+        "type" : "visit",
+        "duration" : 5030.9815828800201,
+        "rating" : 0,
+        "departure" : "2026-09-13T23:27:36Z",
+        "address" : "Admiralty Lane, Elie, Leven, KY9, Schottland",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-09-13T22:03:45Z",
+        "arrival" : "2026-09-13T22:03:45Z",
+        "weather" : "Bedeckter Himmel (14,4 °C)",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -2.8122834985011482,
+          56.187768451076636
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -2.8117150493515095,
+          56.18752302854854
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "type" : "visit",
+        "timestamp" : "2026-09-13T23:29:35Z",
+        "arrival" : "2026-09-13T23:29:35Z",
+        "departure" : "2026-09-14T11:14:32Z",
+        "duration" : 42296.901345729828,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "address" : "Admiralty Lane, Elie, Leven, KY9, Schottland",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "weather" : "Bedeckter Himmel (14,2 °C)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -2.8080339344685581,
+          56.18515774417731
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "departure" : "2026-09-14T12:04:25Z",
+        "arrival" : "2026-09-14T11:14:33Z",
+        "weather" : "Bedeckter Himmel (20,0 °C)",
+        "source" : "Geory 5.3.2",
+        "type" : "visit",
+        "rating" : 0,
+        "address" : "Leven, KY9, Schottland",
+        "duration" : 2992.1896748542786,
+        "timestamp" : "2026-09-14T11:14:33Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.8194344276744365,
+          56.190136754467616
+        ]
+      },
+      "type" : "Feature",
+      "properties" : {
+        "address" : "Wynd House, Rankeillor Street, Elie, Leven, KY9 1DJ, Schottland",
+        "type" : "visit",
+        "arrival" : "2026-09-14T12:39:19Z",
+        "duration" : 3749.1233885288239,
+        "weather" : "Leichter Regen (20,2 °C)",
+        "timestamp" : "2026-09-14T12:39:19Z",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-09-14T13:41:49Z"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.8114272123698614,
+          56.187359563052212
+        ]
+      },
+      "properties" : {
+        "type" : "visit",
+        "arrival" : "2026-09-14T13:55:23Z",
+        "duration" : 1026.4584455490112,
+        "departure" : "2026-09-14T14:12:30Z",
+        "rating" : 0,
+        "weather" : "Überwiegend bewölkt (22,5 °C)",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "address" : "Admiralty Lane, Elie, Leven, KY9, Schottland",
+        "timestamp" : "2026-09-14T13:55:23Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "properties" : {
+        "duration" : 10198.94202876091,
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-09-14T14:44:32Z",
+        "departure" : "2026-09-14T17:34:31Z",
+        "type" : "visit",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "weather" : "Bedeckter Himmel (20,1 °C)",
+        "address" : "Admiralty Lane, Elie, Leven, KY9, Schottland",
+        "arrival" : "2026-09-14T14:44:32Z"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.8115714541523102,
+          56.187452819435727
+        ]
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.8162701370683272,
+          56.188250546137326
+        ]
+      },
+      "properties" : {
+        "rating" : 0,
+        "type" : "visit",
+        "timestamp" : "2026-09-14T17:34:33Z",
+        "arrival" : "2026-09-14T17:34:33Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-09-14T18:37:03Z",
+        "address" : "8–62 Toft, Elie, Leven, KY9, Schottland",
+        "duration" : 3749.8589301109314,
+        "weather" : "Bedeckter Himmel (18,9 °C)",
+        "source" : "Geory 5.3.2"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.8146903018379312,
+          56.188512482833147
+        ]
+      },
+      "type" : "Feature",
+      "properties" : {
+        "weather" : "Bedeckter Himmel (17,0 °C)",
+        "rating" : 0,
+        "timestamp" : "2026-09-14T18:49:47Z",
+        "arrival" : "2026-09-14T18:49:47Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "duration" : 5574.3349494934082,
+        "source" : "Geory 5.3.2",
+        "address" : "2 Admiralty Lane, Elie, Leven, KY9, Schottland"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          [
+            -2.8146903018379312,
+            56.188512482833147
+          ],
+          [
+            -2.8171210352939893,
+            56.188459685800794
+          ],
+          [
+            -2.8189740589547529,
+            56.186159938436994
+          ],
+          [
+            -2.819220941076054,
+            56.18703378515702
+          ],
+          [
+            -2.8191360726448385,
+            56.186042349622362
+          ],
+          [
+            -2.8196028769337946,
+            56.186402417182741
+          ],
+          [
+            -2.8191213898321976,
+            56.186895997431392
+          ],
+          [
+            -2.8162701370683272,
+            56.188250546137326
+          ],
+          [
+            -2.8115714541523102,
+            56.187452819435727
+          ],
+          [
+            -2.8116178859832246,
+            56.187407512991001
+          ],
+          [
+            -2.8114272123698614,
+            56.187359563052212
+          ],
+          [
+            -2.8153190234108014,
+            56.187738171352336
+          ],
+          [
+            -2.816741455304582,
+            56.188189376886314
+          ],
+          [
+            -2.8194344276744365,
+            56.190136754467616
+          ],
+          [
+            -2.8177929676466849,
+            56.190049103987718
+          ],
+          [
+            -2.8165291580887808,
+            56.188674535738095
+          ],
+          [
+            -2.8147934511507642,
+            56.188914707205939
+          ],
+          [
+            -2.8146631175659329,
+            56.188418142756085
+          ],
+          [
+            -2.8110447038376569,
+            56.18738482113308
+          ],
+          [
+            -2.8110239920195217,
+            56.18648564896575
+          ],
+          [
+            -2.8110581033776132,
+            56.185297430959267
+          ],
+          [
+            -2.8118801985256985,
+            56.184473879890675
+          ],
+          [
+            -2.8143379368157668,
+            56.188307847855896
+          ],
+          [
+            -2.8121030923651125,
+            56.184591265911905
+          ],
+          [
+            -2.8143362118520505,
+            56.188555092697584
+          ],
+          [
+            -2.8120931571896155,
+            56.184530350807115
+          ],
+          [
+            -2.8149715650198623,
+            56.188524271603946
+          ],
+          [
+            -2.8120423603517128,
+            56.184317909798388
+          ],
+          [
+            -2.8143893381113601,
+            56.188701671457714
+          ],
+          [
+            -2.8080339344685581,
+            56.18515774417731
+          ],
+          [
+            -2.8117150493515095,
+            56.18752302854854
+          ],
+          [
+            -2.8115926513984268,
+            56.187448631757846
+          ],
+          [
+            -2.8115926513984268,
+            56.187448631757846
+          ],
+          [
+            -2.811634517919479,
+            56.187497401106128
+          ],
+          [
+            -2.8122834985011482,
+            56.187768451076636
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "properties" : {
+        "type" : "route",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "start" : "2026-09-13T23:00:00Z",
+        "end" : "2026-09-14T20:22:27Z"
+      }
+    }
+  ]
+}
