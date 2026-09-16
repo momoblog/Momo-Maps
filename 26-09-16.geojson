@@ -1,0 +1,215 @@
+{
+  "features" : [
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.5066939091698686,
+          56.656011622153088
+        ]
+      },
+      "properties" : {
+        "duration" : 63278.310430526733,
+        "timestamp" : "2026-09-15T18:11:28Z",
+        "source" : "Geory 5.3.2",
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-09-15T18:11:28Z",
+        "rating" : 0,
+        "address" : "Arbroath, DD11, Schottland",
+        "weather" : "Überwiegend bewölkt (14,5 °C)",
+        "departure" : "2026-09-16T11:46:07Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.5062665994688662,
+          56.651923187841824
+        ]
+      },
+      "properties" : {
+        "arrival" : "2026-09-16T12:54:23Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 3661.1170356273651,
+        "departure" : "2026-09-16T13:55:24Z",
+        "timestamp" : "2026-09-16T12:54:23Z",
+        "type" : "visit",
+        "address" : "Lunan Bay Beach, Arbroath, DD11, Schottland"
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.5057557899679685,
+          56.656077843280144
+        ]
+      },
+      "properties" : {
+        "type" : "visit",
+        "source" : "Geory 5.3.2",
+        "arrival" : "2026-09-16T13:57:38Z",
+        "departure" : "2026-09-16T17:58:33Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 14454.693679571152,
+        "address" : "Arbroath, DD11, Schottland",
+        "weather" : "Bedeckter Himmel (16,1 °C)",
+        "rating" : 0,
+        "timestamp" : "2026-09-16T13:57:38Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.5015848618578369,
+          56.658732415133535
+        ]
+      },
+      "properties" : {
+        "departure" : "2026-09-16T18:22:58Z",
+        "duration" : 1425.0021381378174,
+        "address" : "Lunan Bay Beach, Arbroath, DD11, Schottland",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "timestamp" : "2026-09-16T17:59:13Z",
+        "arrival" : "2026-09-16T17:59:13Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "duration" : 5448.0816161632538,
+        "weather" : "Bedeckter Himmel (13,7 °C)",
+        "rating" : 0,
+        "address" : "Arbroath, DD11, Schottland",
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-09-16T18:27:48Z",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-09-16T18:27:48Z"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.506570577390824,
+          56.655714032670829
+        ]
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          [
+            -2.506570577390824,
+            56.655714032670829
+          ],
+          [
+            -2.5047423102147084,
+            56.6559109538399
+          ],
+          [
+            -2.5070795514708122,
+            56.655463646230125
+          ],
+          [
+            -2.5015848618578369,
+            56.658732415133535
+          ],
+          [
+            -2.5057557899679685,
+            56.656077843280144
+          ],
+          [
+            -2.5043920819829384,
+            56.654153094590725
+          ],
+          [
+            -2.5062665994688662,
+            56.651923187841824
+          ],
+          [
+            -2.5059972224432641,
+            56.649589670795407
+          ],
+          [
+            -2.5065976830844741,
+            56.647286189369616
+          ],
+          [
+            -2.5066299317677121,
+            56.645074632858488
+          ],
+          [
+            -2.5066604457642376,
+            56.647563540050733
+          ],
+          [
+            -2.5063598524251263,
+            56.648454471214997
+          ],
+          [
+            -2.5075695192983845,
+            56.650782484425655
+          ],
+          [
+            -2.5044766079373995,
+            56.651974080478773
+          ],
+          [
+            -2.5046145653327927,
+            56.652427250520475
+          ],
+          [
+            -2.5040254773923181,
+            56.653331766803362
+          ],
+          [
+            -2.5040262783260685,
+            56.653332210253609
+          ],
+          [
+            -2.5040262783260685,
+            56.653332210253609
+          ],
+          [
+            -2.5037438696759065,
+            56.65415302394068
+          ],
+          [
+            -2.5037408977577766,
+            56.654156427593684
+          ],
+          [
+            -2.5037408977577766,
+            56.654156427593684
+          ],
+          [
+            -2.5066939091698686,
+            56.656011622153088
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "end" : "2026-09-16T19:58:28Z",
+        "source" : "Geory 5.3.2",
+        "start" : "2026-09-15T23:00:00Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "route"
+      }
+    }
+  ],
+  "type" : "FeatureCollection"
+}
