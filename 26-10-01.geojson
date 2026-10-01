@@ -1,0 +1,238 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -4.7418176745743787,
+          58.569465008229265
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "weather" : "Klarer Himmel (14,1 °C)",
+        "timestamp" : "2026-09-30T21:44:00Z",
+        "duration" : 15073.309359073639,
+        "arrival" : "2026-09-30T21:44:00Z",
+        "rating" : 0,
+        "address" : "A838, Sangomore, Durness, Lairg, IV27, Schottland",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-10-01T01:55:13Z",
+        "type" : "visit"
+      }
+    },
+    {
+      "properties" : {
+        "address" : "A838, Sangomore, Durness, Lairg, IV27, Schottland",
+        "departure" : "2026-10-01T06:46:48Z",
+        "weather" : "Leicht bewölkt (12,0 °C)",
+        "arrival" : "2026-10-01T02:01:24Z",
+        "rating" : 0,
+        "type" : "visit",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "timestamp" : "2026-10-01T02:01:24Z",
+        "source" : "Geory 5.3.2",
+        "duration" : 17123.398733854294
+      },
+      "geometry" : {
+        "coordinates" : [
+          -4.7428925227388081,
+          58.569155992643608
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -4.73782984600349,
+          58.568479421864829
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "duration" : 3200.6731696128845,
+        "timestamp" : "2026-10-01T06:50:31Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "rating" : 0,
+        "weather" : "Leicht bewölkt (11,6 °C)",
+        "source" : "Geory 5.3.2",
+        "address" : "Durness Beach, Lairg, IV27, Schottland",
+        "arrival" : "2026-10-01T06:50:31Z",
+        "departure" : "2026-10-01T07:43:52Z",
+        "type" : "visit"
+      }
+    },
+    {
+      "properties" : {
+        "departure" : "2026-10-01T13:01:46Z",
+        "source" : "Geory 5.3.2",
+        "arrival" : "2026-10-01T07:43:53Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "address" : "Lairg, IV27, Schottland",
+        "rating" : 0,
+        "duration" : 19073.326723575592,
+        "weather" : "Leicht bewölkt (12,3 °C)",
+        "type" : "visit",
+        "timestamp" : "2026-10-01T07:43:53Z"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -4.7420492874985092,
+          58.570125563017257
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "arrival" : "2026-10-01T13:04:57Z",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-10-01T16:21:15Z",
+        "duration" : 11778.516580104828,
+        "weather" : "Überwiegend bewölkt (14,0 °C)",
+        "rating" : 0,
+        "type" : "visit",
+        "timestamp" : "2026-10-01T13:04:57Z",
+        "address" : "Sangomore Headland, Sangomore, Durness, Lairg, IV27 4PZ, Schottland",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -4.7397778862180298,
+          58.56804711582005
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "timestamp" : "2026-10-01T16:25:01Z",
+        "arrival" : "2026-10-01T16:25:01Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "departure" : "2026-10-01T16:53:01Z",
+        "weather" : "Klarer Himmel (13,2 °C)",
+        "duration" : 1679.9593658447266,
+        "source" : "Geory 5.3.2",
+        "type" : "visit",
+        "address" : "Sangomore Beach, Lairg, IV27, Schottland",
+        "rating" : 0
+      },
+      "geometry" : {
+        "coordinates" : [
+          -4.7348338195725583,
+          58.566883091218024
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -4.735395113639389,
+          58.567979651918037
+        ]
+      },
+      "properties" : {
+        "timestamp" : "2026-10-01T16:25:03Z",
+        "arrival" : "2026-10-01T16:25:03Z",
+        "address" : "Lairg, IV27, Schottland",
+        "type" : "visit",
+        "source" : "Geory 5.3.2",
+        "departure" : "2026-10-01T16:55:04Z",
+        "duration" : 1800.7010440826416,
+        "weather" : "Aufgelockert bewölkt (13,6 °C)",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      }
+    },
+    {
+      "properties" : {
+        "start" : "2026-09-30T23:00:00Z",
+        "end" : "2026-10-01T21:18:30Z",
+        "type" : "route",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            -4.742115868972685,
+            58.569217955262175
+          ],
+          [
+            -4.7435996013096302,
+            58.568744803579406
+          ],
+          [
+            -4.7411651353426816,
+            58.568712864975453
+          ],
+          [
+            -4.739751448375733,
+            58.568068223455619
+          ],
+          [
+            -4.7380578920678271,
+            58.567901247237586
+          ],
+          [
+            -4.7401669656163214,
+            58.570700538300514
+          ],
+          [
+            -4.7401669656163214,
+            58.570700538300514
+          ],
+          [
+            -4.735395113639389,
+            58.567979651918037
+          ],
+          [
+            -4.7348338195725583,
+            58.566883091218024
+          ],
+          [
+            -4.7397778862180298,
+            58.56804711582005
+          ],
+          [
+            -4.7401872365822424,
+            58.568616742264268
+          ],
+          [
+            -4.7401872365822424,
+            58.568616742264268
+          ],
+          [
+            -4.7420492874985092,
+            58.570125563017257
+          ],
+          [
+            -4.73782984600349,
+            58.568479421864829
+          ],
+          [
+            -4.7428925227388081,
+            58.569155992643608
+          ],
+          [
+            -4.7418176745743787,
+            58.569465008229265
+          ]
+        ]
+      },
+      "type" : "Feature"
+    }
+  ]
+}
