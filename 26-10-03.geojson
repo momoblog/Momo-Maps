@@ -1,0 +1,259 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "geometry" : {
+        "coordinates" : [
+          -5.1570997315892955,
+          58.351594418075955
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "type" : "visit",
+        "duration" : 54833.999823570251,
+        "address" : "Scourie Caravan and Camping Site, The Anchorage, Scouriemore, Scourie, Lairg, IV27 4TG, Schottland",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-10-02T18:05:21Z",
+        "departure" : "2026-10-03T09:19:15Z",
+        "weather" : "Regen (12,3 °C)",
+        "arrival" : "2026-10-02T18:05:21Z",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.1571037201592107,
+          58.351623826657899
+        ]
+      },
+      "type" : "Feature",
+      "properties" : {
+        "weather" : "Bedeckter Himmel (11,8 °C)",
+        "timestamp" : "2026-10-03T09:19:16Z",
+        "type" : "visit",
+        "address" : "Scourie Caravan and Camping Site, The Anchorage, Scouriemore, Scourie, Lairg, IV27 4TG, Schottland",
+        "departure" : "2026-10-03T14:03:30Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-10-03T09:19:16Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "duration" : 17053.001210451126
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -5.1650814054754317,
+          58.35202025876012
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "type" : "visit",
+        "timestamp" : "2026-10-03T14:03:31Z",
+        "weather" : "Leichter Regen (13,0 °C)",
+        "duration" : 1516.998943567276,
+        "departure" : "2026-10-03T14:28:47Z",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-10-03T14:03:31Z",
+        "address" : "Scourie Beach, Lairg, IV27, Schottland"
+      }
+    },
+    {
+      "properties" : {
+        "weather" : "Überwiegend bewölkt (12,8 °C)",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "duration" : 1913.999969959259,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "arrival" : "2026-10-03T14:28:48Z",
+        "address" : "Lairg, IV27, Schottland",
+        "timestamp" : "2026-10-03T14:28:48Z",
+        "departure" : "2026-10-03T15:00:42Z"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.1737381817619381,
+          58.35323906448869
+        ]
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "departure" : "2026-10-03T15:23:04Z",
+        "weather" : "Überwiegend bewölkt (13,0 °C)",
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-10-03T15:00:43Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 1340.5655336380005,
+        "address" : "Lairg, IV27, Schottland",
+        "type" : "visit",
+        "rating" : 0,
+        "arrival" : "2026-10-03T15:00:43Z"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.1775891877948608,
+          58.353575411312711
+        ]
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.1570088680159625,
+          58.351571528217399
+        ]
+      },
+      "properties" : {
+        "address" : "Scourie Caravan and Camping Site, The Anchorage, Scouriemore, Scourie, Lairg, IV27 4TG, Schottland",
+        "weather" : "Bedeckter Himmel (13,1 °C)",
+        "timestamp" : "2026-10-03T16:01:24Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "type" : "visit",
+        "arrival" : "2026-10-03T16:01:24Z",
+        "duration" : 5546.0816965103149
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          [
+            -5.1570088680159625,
+            58.351571528217399
+          ],
+          [
+            -5.1556010445187948,
+            58.35141466374327
+          ],
+          [
+            -5.1571970933169098,
+            58.351093342246237
+          ],
+          [
+            -5.1585253505930533,
+            58.350516194617953
+          ],
+          [
+            -5.1595259375241254,
+            58.349773605850991
+          ],
+          [
+            -5.1601097335374853,
+            58.348925502007141
+          ],
+          [
+            -5.160537103522242,
+            58.348048236727671
+          ],
+          [
+            -5.1609149604276139,
+            58.347170078045139
+          ],
+          [
+            -5.1607078042075116,
+            58.346271220520705
+          ],
+          [
+            -5.1607938838945868,
+            58.345370567566292
+          ],
+          [
+            -5.1623370978837784,
+            58.346000618649327
+          ],
+          [
+            -5.1635584596391251,
+            58.346439924354684
+          ],
+          [
+            -5.1646292571093158,
+            58.347167184176968
+          ],
+          [
+            -5.1662624048750834,
+            58.347963692996757
+          ],
+          [
+            -5.1678335680214111,
+            58.349209244352586
+          ],
+          [
+            -5.1674923972324942,
+            58.349814070784426
+          ],
+          [
+            -5.1672365210068136,
+            58.350709763854532
+          ],
+          [
+            -5.1685442175198624,
+            58.351291058273624
+          ],
+          [
+            -5.1702500856283056,
+            58.35138756803709
+          ],
+          [
+            -5.1719359377442267,
+            58.351532630764297
+          ],
+          [
+            -5.1732928398365559,
+            58.350986107714604
+          ],
+          [
+            -5.174995361755002,
+            58.351163445980639
+          ],
+          [
+            -5.1775891877948608,
+            58.353575411312711
+          ],
+          [
+            -5.1737381817619381,
+            58.35323906448869
+          ],
+          [
+            -5.1650814054754317,
+            58.35202025876012
+          ],
+          [
+            -5.1571037201592107,
+            58.351623826657899
+          ],
+          [
+            -5.1570997315892955,
+            58.351594418075955
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "type" : "route",
+        "start" : "2026-10-02T23:00:00Z",
+        "end" : "2026-10-03T17:33:43Z",
+        "source" : "Geory 5.3.2",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      }
+    }
+  ]
+}
