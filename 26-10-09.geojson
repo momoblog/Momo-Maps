@@ -1,0 +1,301 @@
+{
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "coordinates" : [
+          -5.5611110028893735,
+          57.90183610152507
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "departure" : "2026-10-09T09:44:00Z",
+        "source" : "Geory 5.3.2",
+        "duration" : 58869.045534849167,
+        "rating" : 0,
+        "weather" : "Regen (9,3 °C)",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "arrival" : "2026-10-08T17:22:51Z",
+        "timestamp" : "2026-10-08T17:22:51Z",
+        "type" : "visit",
+        "address" : "Achnasheen, IV22, Schottland"
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "departure" : "2026-10-09T10:19:41Z",
+        "timestamp" : "2026-10-09T09:57:15Z",
+        "type" : "visit",
+        "duration" : 1345.0003142356873,
+        "address" : "Achnasheen, IV22, Schottland",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "rating" : 0,
+        "arrival" : "2026-10-09T09:57:15Z",
+        "weather" : "Überwiegend bewölkt (11,5 °C)"
+      },
+      "geometry" : {
+        "coordinates" : [
+          -5.5680852535468839,
+          57.908126774227675
+        ],
+        "type" : "Point"
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -5.5682729071469268,
+          57.915176667213487
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "rating" : 0,
+        "source" : "Geory 5.3.2",
+        "address" : "Achnasheen, IV22, Schottland",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "duration" : 1754.0002512931824,
+        "arrival" : "2026-10-09T10:26:42Z",
+        "weather" : "Aufgelockert bewölkt (11,6 °C)",
+        "departure" : "2026-10-09T10:55:56Z",
+        "timestamp" : "2026-10-09T10:26:42Z"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.5563142336759519,
+          57.911678839066489
+        ]
+      },
+      "type" : "Feature",
+      "properties" : {
+        "duration" : 2185.0007426738739,
+        "weather" : "Aufgelockert bewölkt (12,0 °C)",
+        "departure" : "2026-10-09T11:42:35Z",
+        "timestamp" : "2026-10-09T11:06:10Z",
+        "address" : "Achnasheen, IV22, Schottland",
+        "type" : "visit",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "source" : "Geory 5.3.2",
+        "arrival" : "2026-10-09T11:06:10Z"
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -5.5605594395360276,
+          57.90131047052153
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "arrival" : "2026-10-09T12:02:11Z",
+        "departure" : "2026-10-09T17:33:50Z",
+        "type" : "visit",
+        "weather" : "Aufgelockert bewölkt (12,3 °C)",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "address" : "Achnasheen, IV22, Schottland",
+        "duration" : 19898.010103464127,
+        "timestamp" : "2026-10-09T12:02:11Z",
+        "rating" : 0,
+        "source" : "Geory 5.3.2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "address" : "Mellon Udrigle Beach, Achnasheen, IV22, Schottland",
+        "weather" : "Leichter Regen (9,7 °C)",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 1181.9996209144592,
+        "timestamp" : "2026-10-09T17:33:50Z",
+        "source" : "Geory 5.3.2",
+        "arrival" : "2026-10-09T17:33:50Z",
+        "rating" : 0,
+        "type" : "visit",
+        "departure" : "2026-10-09T17:53:32Z"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.5558776858997998,
+          57.900591264244049
+        ]
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -5.5605755716551224,
+          57.901279857866044
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "source" : "Geory 5.3.2",
+        "timestamp" : "2026-10-09T17:53:33Z",
+        "weather" : "Überwiegend bewölkt (9,5 °C)",
+        "arrival" : "2026-10-09T17:53:33Z",
+        "address" : "Achnasheen, IV22, Schottland",
+        "type" : "visit",
+        "rating" : 0,
+        "duration" : 6333.8637726306915,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "route",
+        "end" : "2026-10-09T19:38:59Z",
+        "start" : "2026-10-08T23:00:00Z",
+        "source" : "Geory 5.3.2"
+      },
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            -5.5605755716551224,
+            57.901279857866044
+          ],
+          [
+            -5.5558776858997998,
+            57.900591264244049
+          ],
+          [
+            -5.5605594395360276,
+            57.90131047052153
+          ],
+          [
+            -5.5606730302555984,
+            57.902864211900344
+          ],
+          [
+            -5.5597254865881451,
+            57.902695554207654
+          ],
+          [
+            -5.5580267999042761,
+            57.903731704412479
+          ],
+          [
+            -5.5576903344267352,
+            57.904614056385086
+          ],
+          [
+            -5.5572214486262119,
+            57.905476795793135
+          ],
+          [
+            -5.5569138834374643,
+            57.906370186205912
+          ],
+          [
+            -5.5567040773045608,
+            57.907273916550395
+          ],
+          [
+            -5.5561210723639043,
+            57.90812874109924
+          ],
+          [
+            -5.5554859398612031,
+            57.90896718506594
+          ],
+          [
+            -5.5551952031679486,
+            57.90985450490021
+          ],
+          [
+            -5.5563142336759519,
+            57.911678839066489
+          ],
+          [
+            -5.5616132616992404,
+            57.914163505352363
+          ],
+          [
+            -5.5627457525839432,
+            57.914568379993206
+          ],
+          [
+            -5.5639903769749743,
+            57.915180507506314
+          ],
+          [
+            -5.5682729071469268,
+            57.915176667213487
+          ],
+          [
+            -5.5692611061453396,
+            57.913391944127603
+          ],
+          [
+            -5.5690259462173106,
+            57.912499888630741
+          ],
+          [
+            -5.5694040569060776,
+            57.911618944265562
+          ],
+          [
+            -5.5694770123673427,
+            57.910669648965552
+          ],
+          [
+            -5.56936624542716,
+            57.909664574396082
+          ],
+          [
+            -5.5680852535468839,
+            57.908126774227675
+          ],
+          [
+            -5.5665152795059365,
+            57.906867455978876
+          ],
+          [
+            -5.5651897061089688,
+            57.905756500888394
+          ],
+          [
+            -5.564494754681597,
+            57.905430365273673
+          ],
+          [
+            -5.5631711066977125,
+            57.904762282593822
+          ],
+          [
+            -5.5631575396430293,
+            57.904752251012212
+          ],
+          [
+            -5.562161664474508,
+            57.903247816372193
+          ],
+          [
+            -5.5621648142672715,
+            57.903244792090263
+          ],
+          [
+            -5.5611110028893735,
+            57.90183610152507
+          ]
+        ]
+      }
+    }
+  ],
+  "type" : "FeatureCollection"
+}
