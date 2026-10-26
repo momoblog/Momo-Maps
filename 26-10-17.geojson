@@ -1,0 +1,202 @@
+{
+  "features" : [
+    {
+      "properties" : {
+        "address" : "Glenmore Visitor Centre, Beach Trail, Glenmore, Aviemore, PH22, Schottland",
+        "type" : "visit",
+        "departure" : "2026-10-17T10:33:20Z",
+        "arrival" : "2026-10-16T17:07:44Z",
+        "source" : "Geory 5.3.3",
+        "weather" : "Leicht bewölkt (6,5 °C)",
+        "duration" : 62735.038984775543,
+        "timestamp" : "2026-10-16T17:07:44Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "rating" : 0
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -3.6970577656630943,
+          57.166930310776699
+        ]
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -3.6934036011883742,
+          57.167251225138017
+        ],
+        "type" : "Point"
+      },
+      "properties" : {
+        "departure" : "2026-10-17T11:48:35Z",
+        "address" : "Glenmore Visitor Centre, Beach Trail, Glenmore, Aviemore, PH22, Schottland",
+        "source" : "Geory 5.3.3",
+        "duration" : 4355.000497341156,
+        "arrival" : "2026-10-17T10:35:59Z",
+        "type" : "visit",
+        "timestamp" : "2026-10-17T10:35:59Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "rating" : 0
+      },
+      "type" : "Feature"
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "duration" : 2146.8594250679016,
+        "departure" : "2026-10-17T12:24:22Z",
+        "arrival" : "2026-10-17T11:48:36Z",
+        "timestamp" : "2026-10-17T11:48:36Z",
+        "rating" : 0,
+        "type" : "visit",
+        "source" : "Geory 5.3.3",
+        "address" : "Glenmore Visitor Centre, Beach Trail, Glenmore, Aviemore, PH22, Schottland"
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -3.6971544909038414,
+          57.167752100189404
+        ]
+      }
+    },
+    {
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -3.7013533332151618,
+          57.160948827689808
+        ]
+      },
+      "properties" : {
+        "type" : "visit",
+        "address" : "Glenmore Visitor Centre, Pine Knoll Trail, Glenmore, Aviemore, PH22, Schottland",
+        "weather" : "Klarer Himmel (8,7 °C)",
+        "arrival" : "2026-10-17T12:41:07Z",
+        "duration" : 9829.9996421337128,
+        "source" : "Geory 5.3.3",
+        "departure" : "2026-10-17T15:24:57Z",
+        "timestamp" : "2026-10-17T12:41:07Z",
+        "rating" : 0,
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)"
+      },
+      "type" : "Feature"
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          -3.7008420918296974,
+          57.166346257638168
+        ],
+        "type" : "Point"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "arrival" : "2026-10-17T15:35:00Z",
+        "rating" : 0,
+        "duration" : 6459.4999885559082,
+        "weather" : "Klarer Himmel (8,7 °C)",
+        "source" : "Geory 5.3.3",
+        "type" : "visit",
+        "address" : "Glenmore Visitor Centre, Beach Trail, Glenmore, Aviemore, PH22, Schottland",
+        "departure" : "2026-10-17T17:22:40Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "timestamp" : "2026-10-17T15:35:00Z"
+      }
+    },
+    {
+      "properties" : {
+        "arrival" : "2026-10-17T17:25:24Z",
+        "rating" : 0,
+        "departure" : "2026-10-18T08:27:41Z",
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "type" : "visit",
+        "address" : "Glenmore Visitor Centre, Aviemore, PH22, Schottland",
+        "weather" : "Klarer Himmel (5,2 °C)",
+        "timestamp" : "2026-10-17T17:25:24Z",
+        "source" : "Geory 5.3.3",
+        "duration" : 54137.000107288361
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -3.6971923514788001,
+          57.166933201428606
+        ]
+      }
+    },
+    {
+      "geometry" : {
+        "coordinates" : [
+          [
+            -3.6971923514788001,
+            57.166933201428606
+          ],
+          [
+            -3.7008420918296974,
+            57.166346257638168
+          ],
+          [
+            -3.7006978851234922,
+            57.165435015009429
+          ],
+          [
+            -3.7000891478196545,
+            57.163670922189254
+          ],
+          [
+            -3.6986611282738648,
+            57.163217824106788
+          ],
+          [
+            -3.7013533332151618,
+            57.160948827689808
+          ],
+          [
+            -3.6994229533579746,
+            57.16412529775085
+          ],
+          [
+            -3.6996873863980513,
+            57.164923473450393
+          ],
+          [
+            -3.6996922401960415,
+            57.164953236376064
+          ],
+          [
+            -3.7007393694415125,
+            57.166321908838313
+          ],
+          [
+            -3.6971544909038414,
+            57.167752100189404
+          ],
+          [
+            -3.6934036011883742,
+            57.167251225138017
+          ],
+          [
+            -3.6970577656630943,
+            57.166930310776699
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "type" : "Feature",
+      "properties" : {
+        "device" : "B9E47AEB-E54C-4563-96B6-06995DD4BC56 (iPhone 16 Pro)",
+        "start" : "2026-10-16T22:00:00Z",
+        "end" : "2026-10-17T21:59:59Z",
+        "type" : "route",
+        "source" : "Geory 5.3.3"
+      }
+    }
+  ],
+  "type" : "FeatureCollection"
+}
